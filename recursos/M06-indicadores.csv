@@ -1,0 +1,22 @@
+fase;grupo;indicador;valor;unidade;nota;aviso
+pos_evento_simulado;inscricoes;participantes_confirmados;72;pessoas;exclui equipa e facilitadores;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;presencas;participantes_externos_presentes;64;pessoas;distintas;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;presencas;equipa_facilitadores_presentes;8;pessoas;distintas;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;presencas;total_presencas_distintas;72;pessoas;controlo nao somar de novo;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;capacidade;sala;80;pessoas;inclui equipa;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;sessoes;mesa_praticas;70;presencas;inclui equipa nao aditivo;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;sessoes;oficina_1;66;presencas;inclui equipa nao aditivo;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;sessoes;oficina_2;60;presencas;inclui equipa nao aditivo;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;avaliacao;questionarios_enviados;64;pessoas;apenas participantes externos presentes;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;avaliacao;respostas;45;respostas;uma por pessoa;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;satisfacao;classificacao_1;1;respostas;escala 1 a 5;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;satisfacao;classificacao_2;1;respostas;escala 1 a 5;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;satisfacao;classificacao_3;5;respostas;escala 1 a 5;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;satisfacao;classificacao_4;12;respostas;escala 1 a 5;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;satisfacao;classificacao_5;26;respostas;escala 1 a 5;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;orcamento;teto_aprovado;4500;EUR;nao e despesa;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;despesa;sala_e_equipamento;1200;EUR;valor final impostos incluidos;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;despesa;catering;1440;EUR;80 refeicoes contratadas a 18 EUR;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;despesa;apoio_tecnico;780;EUR;valor final impostos incluidos;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;despesa;materiais;360;EUR;valor final impostos incluidos;SIMULAÇÃO — dados fictícios para formação
+pos_evento_simulado;despesa;deslocacoes;540;EUR;valor final impostos incluidos;SIMULAÇÃO — dados fictícios para formação
