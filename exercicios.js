@@ -33,7 +33,7 @@
         try { copied = document.execCommand('copy'); } catch (_) {}
         field.remove(); button.focus();
       }
-      if (copied) { button.textContent = 'Copiado ✓'; feedback.textContent = 'Caso copiado. Abram uma conversa nova e colem o texto.'; }
+      if (copied) { button.textContent = 'Copiado ✓'; feedback.textContent = source.id.endsWith('-pedido') ? 'Pedido copiado. Adaptem-no ao resultado que pretendem.' : 'Caso copiado. Abram uma conversa nova e colem o texto.'; }
       else { const range = document.createRange(); range.selectNodeContents(source); const selection = window.getSelection(); selection.removeAllRanges(); selection.addRange(range); feedback.textContent = 'Texto selecionado: usem Ctrl+C ou ⌘C para copiar.'; }
     });
   });
