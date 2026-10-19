@@ -27,9 +27,9 @@ SIMULAÇÃO — todos os dados são fictícios.
 
 O Hospital do Vale Claro prepara uma oficina de melhoria de processos para profissionais e representantes de associações: 18 novembro 2027,  14h00–16h00, Sala Horizonte. A sala comporta 36 pessoas no total; seis lugares estão reservados para organização e facilitadores. A participação é gratuita. Há 43 manifestações de interesse, que não são inscrições nem garantem lugar.
 
-A coordenação pede um convite com assunto e corpo até 150 palavras. Quer explicar o objetivo: identificar dois problemas administrativos e discutir propostas de melhoria. A ligação de inscrição ainda não existe; não há prazo aprovado. A emissão de certificado foi sugerida mas não autorizada. A frase «lugar garantido para todos os interessados» apareceu num rascunho e não foi aprovada. O texto só será divulgado depois de revisto pela coordenação. Não há contactos ou ligações operacionais para incluir.
+O objetivo da oficina é: identificar dois problemas administrativos e discutir propostas de melhoria. A ligação de inscrição ainda não existe; não há prazo aprovado. A emissão de certificado foi sugerida mas não autorizada. A frase «lugar garantido para todos os interessados» apareceu num rascunho e não foi aprovada. O texto só será divulgado depois de revisto pela coordenação. Não há contactos ou ligações operacionais para incluir.
 
-### Três orientações
+### O que fazer
 
 1. Leiam o caso e decidam como comunicar a capacidade e o interesse recebido sem transformar interesse em inscrição.
 2. Peçam um convite à IA e melhorem a redação: preservem o objetivo, a gratuitidade e as condições ainda por confirmar.
@@ -44,6 +44,8 @@ A coordenação pede um convite com assunto e corpo até 150 palavras. Quer expl
 ### Ajuda opcional
 
 Antes de redigir, perguntem à IA quais afirmações do caso são confirmadas, condicionadas ou apenas sugeridas. Confiram vocês próprios a classificação.
+
+Sugestão de pedido: Com os factos do caso, redige um email de convite com assunto e corpo até 150 palavras. Preserva o objetivo, a gratuitidade e a capacidade disponível para o público. Não anuncies inscrições, prazos ou certificados por confirmar. O texto destina-se a revisão da coordenação.
 
 ### Se quiseres ir mais longe
 
@@ -70,12 +72,12 @@ SIMULAÇÃO — todos os dados são fictícios.
 
 O Hospital da Serra Azul quer substituir cadeiras de uma sala administrativa. O pedido inicial fala em 18 cadeiras para a equipa fixa e 12 para postos adicionais. Uma verificação de espaço limita a instalação a 24 cadeiras. O teto disponível é 3600 euros, incluindo entrega. Não existe compra aprovada.
 
-Uma proposta preliminar indica 120 euros por cadeira e 180 euros de entrega, valores finais com impostos incluídos. A entrega mantém-se em 180 euros para 24 ou 30 cadeiras. A coordenação pede um ofício até 220 palavras ao fornecedor fictício Equipamentos Horizonte, solicitando proposta revista para uma solução compatível com espaço e teto. Deve pedir especificação do produto, validade da proposta e prazo de entrega. Esses elementos não foram fornecidos. Não há obrigação de aceitar a primeira proposta; não inventem descontos, garantias contratuais ou decisão de adjudicação. O documento será assinado pela coordenação após revisão; não inventem nome de signatário nem morada.
+Uma proposta preliminar indica 120 euros por cadeira e 180 euros de entrega, valores finais com impostos incluídos. A entrega mantém-se em 180 euros para 24 ou 30 cadeiras. O fornecedor fictício é Equipamentos Horizonte. A especificação do produto, a validade da proposta e o prazo de entrega não foram fornecidos. Não existem descontos ou garantias contratuais confirmados, nem decisão de adjudicação. Os ofícios são assinados pela coordenação após revisão; não foram fornecidos nome do signatário nem morada.
 
-### Três orientações
+### O que fazer
 
 1. Calculem os dois cenários de quantidade e comparem-nos com o limite físico e financeiro.
-2. Redijam o ofício com IA, escolhendo uma quantidade sustentada e pedindo apenas os elementos necessários à decisão.
+2. Redijam o ofício com IA, escolhendo uma quantidade sustentada e solicitando especificação do produto, validade da proposta e prazo de entrega. Sem assumir uma compra aprovada.
 3. Verifiquem que o texto é um pedido de proposta, contém os elementos em falta e não comunica uma encomenda.
 
 ### Antes de considerar pronto
@@ -87,6 +89,8 @@ Uma proposta preliminar indica 120 euros por cadeira e 180 euros de entrega, val
 ### Ajuda opcional
 
 Façam quantidade × preço unitário + entrega. Um preço unitário compatível com o teto não basta se a quantidade não couber na sala.
+
+Sugestão de pedido: Redige um ofício até 220 palavras a Equipamentos Horizonte, a pedir proposta revista para uma quantidade compatível com a sala e o teto. Solicita especificação, validade e prazo de entrega. Usa os valores fornecidos, sem inventar descontos, signatários, moradas ou uma adjudicação.
 
 ### Se quiseres ir mais longe
 
@@ -122,7 +126,7 @@ Reunião da equipa de melhoria administrativa do Hospital das Fontes, online, 4 
 
 Não houve votação, contratação ou aprovação da ata. Os apontamentos não documentam pessoas adicionais nem um responsável pelo teste do formulário.
 
-### Três orientações
+### O que fazer
 
 1. Leiam os seis apontamentos e distingam decisão, condição, proposta e ação.
 2. Peçam uma minuta com tabela ação/responsável/prazo/origem e revejam o primeiro resultado.
@@ -137,6 +141,8 @@ Não houve votação, contratação ou aprovação da ata. Os apontamentos não 
 ### Ajuda opcional
 
 Uma data pode estar aceite e continuar condicionada. Conservem a condição na mesma frase da decisão, em vez de a esconder numa nota distante.
+
+Sugestão de pedido: Transforma os apontamentos numa minuta com decisões, condições, propostas, pendências e tabela ação/responsável/prazo/origem. Não convertas a condição de abertura de inscrições numa autorização incondicional nem atribuas responsáveis ou prazos ausentes.
 
 ### Se quiseres ir mais longe
 
@@ -155,7 +161,7 @@ Escrever uma síntese de atividade que distinga volume, capacidade e taxa de uti
 
 ### O resultado
 
-Uma síntese de gestão até 180 palavras, com os cálculos essenciais apresentados de forma legível no próprio resultado.
+Uma síntese de gestão até 180 palavras, com variação absoluta e percentual das sessões, taxa de utilização de cada mês, diferença em pontos percentuais e uma proposta de verificação futura.
 
 ### O caso
 
@@ -163,9 +169,9 @@ SIMULAÇÃO — dados agregados fictícios, sem informação de pessoas.
 
 A unidade administrativa do Hospital do Cedro prepara uma síntese sobre sessões de orientação administrativa, sem prestação clínica. Em setembro disponibilizou 240 vagas e realizou 216 sessões; em outubro disponibilizou 300 vagas e realizou 255 sessões. Cada sessão corresponde a uma vaga efetivamente utilizada. Não há dados sobre pessoas únicas, motivos de vagas não utilizadas, qualidade ou resultados do serviço.
 
-A chefia escreveu: «Em outubro fizemos mais sessões, por isso a utilização melhorou e os problemas de acesso ficaram resolvidos.» Pede-vos uma síntese até 180 palavras para a reunião de gestão. Deve explicar a mudança no número de sessões, a taxa de utilização de cada mês e a diferença entre taxas em pontos percentuais. Uma proposta de verificação futura é bem-vinda, mas não há decisão tomada sobre reforço de equipa. Não confundam sessões com pessoas nem afirmem que os motivos da variação são conhecidos.
+A chefia escreveu: «Em outubro fizemos mais sessões, por isso a utilização melhorou e os problemas de acesso ficaram resolvidos.» Não há decisão tomada sobre reforço de equipa nem informação que explique os motivos da variação.
 
-### Três orientações
+### O que fazer
 
 1. Calculem variação absoluta e percentual das sessões e taxa de utilização de cada mês.
 2. Peçam uma síntese e confrontem a conclusão da chefia com os dois tipos de medida.
@@ -180,6 +186,8 @@ A chefia escreveu: «Em outubro fizemos mais sessões, por isso a utilização m
 ### Ajuda opcional
 
 Primeiro perguntem «mais em número absoluto ou mais em proporção da capacidade?». Variação percentual do volume e diferença de taxas respondem a perguntas diferentes.
+
+Sugestão de pedido: Prepara uma síntese de gestão até 180 palavras com variação das sessões, taxas de utilização e diferença em pontos percentuais. Confronta a frase da chefia com os dados. Distingue o que sabemos do que falta apurar e propõe uma verificação futura.
 
 ### Se quiseres ir mais longe
 
@@ -198,7 +206,7 @@ Reconciliar uma exportação com duplicados e produzir uma nota de participaçã
 
 ### O resultado
 
-Uma nota de participação até 150 palavras, incluindo os quatro resultados pedidos e a regra de tratamento de duplicados.
+Uma nota até 150 palavras com pessoas distintas na base, inscrições confirmadas elegíveis, presenças elegíveis, taxa de comparência e regra de tratamento dos duplicados.
 
 ### O caso
 
@@ -217,9 +225,9 @@ I06 |18 nov 10h00|confirmada|sim
 I07 |17 nov 17h00|lista de espera|não
 I08 |18 nov 10h00|confirmada|não
 
-O rascunho da equipa diz: «Tivemos nove participantes e seis presenças.» Precisam de uma nota curta com pessoas distintas na base, inscrições confirmadas elegíveis, presenças elegíveis e taxa de comparência. Não há contagens de equipa, lotação ou avaliação; não acrescentem essas conclusões.
+O rascunho da equipa diz: «Tivemos nove participantes e seis presenças.» Não há contagens de equipa, lotação ou avaliação disponíveis.
 
-### Três orientações
+### O que fazer
 
 1. Apliquem a regra de atualização mais recente e identifiquem quais IDs entram no denominador.
 2. Peçam uma nota com os quatro resultados e uma explicação curta do tratamento dos registos.
@@ -234,6 +242,8 @@ O rascunho da equipa diz: «Tivemos nove participantes e seis presenças.» Prec
 ### Ajuda opcional
 
 Façam primeiro a lista de IDs únicos e o estado final de cada um. Só depois contem e calculem; pedir uma percentagem diretamente pode esconder duplicados.
+
+Sugestão de pedido: Revê os registos segundo a regra de atualização mais recente. Produz uma nota até 150 palavras com pessoas distintas, inscrições elegíveis, presenças elegíveis e taxa de comparência. Explica a deduplicação e mostra o numerador e denominador da taxa.
 
 ### Se quiseres ir mais longe
 
@@ -261,14 +271,12 @@ SIMULAÇÃO — todos os elementos são fictícios.
 A equipa do Hospital do Pinhal colou tudo nas instruções de um projeto de IA e agora obtém respostas confusas. Eis o conteúdo misturado:
 «Escrever em português de Portugal. O encontro é em 3 dezembro 2027. Não inventar dados. Há24 lugares. Produzir o email que pedi ontem. O público é pessoal administrativo. Perguntar quando faltar informação. Usar sempre o título Oficina 2026. Inês aprova textos. A ligação de inscrição ainda não existe. Fazer todos os textos com exatamente 180 palavras.»
 
-Esclarecimentos disponíveis: o evento atual chama-se Oficina de Melhoria Administrativa 2027; o título Oficina 2026 ficou de um projeto anterior e não deve ser reutilizado. A indicação de 180 palavras foi um pedido para um convite antigo, não uma regra geral. A equipa quer respostas claras, tratamento explícito de incertezas e revisão humana antes de uso externo. Nesta tarefa, o pedido é: preparar três prioridades antes de divulgar o evento. Não há outros dados confirmados.
+Esclarecimentos disponíveis: o evento atual chama-se Oficina de Melhoria Administrativa 2027; o título Oficina 2026 ficou de um projeto anterior e não deve ser reutilizado. A indicação de 180 palavras foi um pedido para um convite antigo, não uma regra geral. A equipa quer respostas claras, tratamento explícito de incertezas e revisão humana antes de uso externo. Não há outros dados confirmados.
 
-Podem usar um projeto real se disponível ou organizar o conteúdo numa conversa normal. Não precisam de partilhar contas ou configurar permissões.
-
-### Três orientações
+### O que fazer
 
 1. Separem as orientações reutilizáveis dos factos atuais, pedidos antigos e conteúdo a eliminar.
-2. Organizem o pacote e testem-no numa conversa nova ou num projeto disponível com o pedido das três prioridades.
+2. Organizem o pacote numa conversa ou num projeto, se disponível. Testem numa conversa nova com o pedido: «Quais são as três prioridades antes de divulgar o evento?» Não precisam de configurar partilhas.
 3. Revejam o pacote à luz do teste: a resposta deve usar o título atual e preservar a ausência de ligação, sem recuperar instruções antigas.
 
 ### Antes de considerar pronto
@@ -280,6 +288,8 @@ Podem usar um projeto real se disponível ou organizar o conteúdo numa conversa
 ### Ajuda opcional
 
 Perguntem para cada frase: deve continuar válida se o evento mudar? Se não, provavelmente pertence ao contexto ou a um pedido específico.
+
+Sugestão de pedido: Reorganiza o conteúdo fornecido em instruções gerais reutilizáveis, contexto atual e pedido de teste. Retira pedidos antigos e referências desatualizadas. O pedido de teste é: «Quais são as três prioridades antes de divulgar o evento?» Não inventes factos.
 
 ### Se quiseres ir mais longe
 
@@ -304,15 +314,15 @@ Um único modelo reutilizável de convite com campos e instruções condicionais
 
 SIMULAÇÃO — cenários fictícios de comunicação institucional.
 
-A equipa quer um modelo de convite para oficinas administrativas. O modelo deve servir tanto para um evento confirmado como para um anúncio preliminar. Deve ter campos claros e pequenas instruções sobre o que omitir ou reformular quando falta confirmação. Não usem contactos inventados.
+A equipa organiza oficinas administrativas e comunica eventos confirmados e anúncios preliminares. Não foram fornecidos contactos operacionais.
 
 Caso de teste 1: Oficina de Processos,5 dezembro 2027, 09h30–11h30, Sala Norte. Participação gratuita. Formulário aprovado, mas a ligação será inserida pela equipa no campo próprio; inscrições até 25 novembro. Certificado não previsto.
 
-Caso de teste 2: Oficina de Comunicação, data por confirmar,14h00–16h00 em horário ainda proposto; local por confirmar. A participação gratuita está confirmada. Formulário e prazo não definidos; certificado sugerido, sem aprovação. O texto deve ser um anúncio preliminar, sem apresentar data ou horário propostos como confirmados.
+Caso de teste 2: Oficina de Comunicação, data por confirmar,14h00–16h00 em horário ainda proposto; local por confirmar. A participação gratuita está confirmada. Formulário e prazo não definidos; certificado sugerido, sem aprovação. O estado deste evento é anúncio preliminar: a data e o horário propostos não estão confirmados.
 
-Em ambos: PT-PT, linguagem clara, objetivo específico a preencher e revisão da coordenação antes da divulgação. O modelo não deve ter uma data fictícia fixa nem uma regra universal de certificado.
+Em ambos: PT-PT, linguagem clara, objetivo específico a preencher e revisão da coordenação antes da divulgação. As datas e a previsão de certificado variam entre eventos.
 
-### Três orientações
+### O que fazer
 
 1. Identifiquem os campos comuns e as partes que dependem do estado de confirmação do evento.
 2. Criem o modelo e experimentem preenchê-lo mentalmente ou com IA para os dois casos, procurando promessas indevidas.
@@ -327,6 +337,8 @@ Em ambos: PT-PT, linguagem clara, objetivo específico a preencher e revisão da
 ### Ajuda opcional
 
 Um campo vazio pode acabar preenchido por invenção. Acrescentem uma instrução clara, por exemplo: se não existe prazo aprovado, omitir o prazo e indicar que os detalhes serão comunicados depois.
+
+Sugestão de pedido: Cria um modelo reutilizável de convite, com campos e orientações para informação por confirmar. Testa-o nos dois casos fornecidos e corrige o próprio modelo. Apresenta apenas a versão reutilizável; não fixes datas, gratuitidade ou certificados como regras universais.
 
 ### Se quiseres ir mais longe
 
@@ -345,7 +357,7 @@ Aplicar uma orientação editorial comum preservando títulos oficiais e factos 
 
 ### O resultado
 
-Um texto revisto com os três excertos e aplicação coerente da orientação editorial.
+Um único texto revisto com os três excertos, identificados pelos subtítulos A, B e C, aplicando a orientação editorial e preservando títulos e factos.
 
 ### O caso
 
@@ -358,9 +370,9 @@ A)«Os utentes da oficina irão conhecer o circuito de pedidos administrativos. 
 B)«A oficina utiliza o documento oficial “Guia do Utente 2027”. Foram recebidas 18 respostas ao questionário; 12 classificaram a sessão com 4 ou 5 numa escala de 1 a 5.»
 C)«Os utentes podem colocar dúvidas no final. O formulário da próxima sessão ainda não foi aprovado; as inscrições estão abertas.»
 
-A atividade já realizada e a próxima sessão são momentos diferentes. A nota sobre o formulário é a única informação disponível sobre inscrições futuras. Precisam de devolver os três excertos como um único texto revisto com subtítulos A, B, C; não de uma lista de alterações.
+A atividade já realizada e a próxima sessão são momentos diferentes. A nota sobre o formulário é a única informação disponível sobre inscrições futuras. Não existe confirmação adicional de abertura de inscrições.
 
-### Três orientações
+### O que fazer
 
 1. Leiam a orientação e encontrem uma alteração necessária, uma expressão a preservar e uma contradição factual.
 2. Peçam a revisão conjunta dos excertos e comparem o resultado com a orientação, sem aceitar substituição cega de palavras.
@@ -375,6 +387,8 @@ A atividade já realizada e a próxima sessão são momentos diferentes. A nota 
 ### Ajuda opcional
 
 Não peçam apenas substituir uma palavra em todo o texto. Expliquem a regra, a exceção dos títulos oficiais e a obrigação de preservar os factos.
+
+Sugestão de pedido: Revê os três excertos de acordo com a orientação editorial. Devolve um único texto com subtítulos A, B e C. Preserva o título oficial citado e os números; resolve a contradição sobre inscrições sem inventar uma confirmação.
 
 ### Se quiseres ir mais longe
 
@@ -406,9 +420,9 @@ O dossier de uma oficina tem três documentos:
 
 Mensagem da coordenação de 5 novembro: «Continuem a usar o plano aprovado até eu decidir sobre a alternativa. Não divulguem alterações nem abertura de inscrições.» A alternativa permanece em estudo.
 
-Um colega novo pergunta qual é a situação atual. Precisa de uma nota curta que identifique a referência válida, os factos utilizáveis, as mudanças propostas e o que impede divulgação. Não apaguem a proposta como se nunca tivesse existido e não considerem FINAL prova de aprovação.
+Um colega novo vai acompanhar a organização e ainda não conhece o histórico das versões. A alternativa da logística continua documentada como proposta, sem aprovação.
 
-### Três orientações
+### O que fazer
 
 1. Comparem data, estado de aprovação e origem dos três documentos.
 2. Peçam uma nota de referência que use a mensagem da coordenação para resolver o conflito entre versões.
@@ -423,6 +437,8 @@ Um colega novo pergunta qual é a situação atual. Precisa de uma nota curta qu
 ### Ajuda opcional
 
 Separem duas perguntas: qual é a versão aprovada e qual é a alteração mais recente em discussão? As respostas podem apontar para documentos diferentes.
+
+Sugestão de pedido: Prepara uma nota até 220 palavras para o colega novo. Identifica a referência aprovada, os factos utilizáveis, a alternativa em estudo e os bloqueios à divulgação. Usa a mensagem da coordenação para resolver o conflito; não mistures versões nem apagues propostas documentadas.
 
 ### Se quiseres ir mais longe
 
@@ -451,9 +467,9 @@ Um fornecedor apresenta uma ferramenta de redação administrativa por 1200 euro
 
 A direção pergunta se deve comprar já ou prolongar a avaliação. O teto financeiro de 1200 euros existe, mas caber no orçamento não prova benefício. Não há volume mensal de tarefas nem custo por hora disponíveis, pelo que não podem calcular retorno financeiro real.
 
-Produzam uma recomendação curta que diferencie o resultado observado, os limites da comparação e uma avaliação adicional exequível. Não precisam de procurar produtos ou legislação nem de afirmar que a ferramenta é inadequada em todos os contextos.
+Não foram fornecidos outros testes ou elementos de avaliação.
 
-### Três orientações
+### O que fazer
 
 1. Identifiquem exatamente o que foi medido e o que a alegação comercial acrescenta sem medição.
 2. Peçam uma recomendação e testem se cada conclusão tem suporte nos dados fornecidos.
@@ -468,6 +484,8 @@ Produzam uma recomendação curta que diferencie o resultado observado, os limit
 ### Ajuda opcional
 
 Uma percentagem pode estar aritmeticamente correta e apoiar uma conclusão excessiva. Verifiquem comparabilidade das tarefas e partes do trabalho que ficaram fora da medição.
+
+Sugestão de pedido: Prepara uma recomendação até 250 palavras sobre comprar já ou prolongar a avaliação. Distingue medição observada, alegações comerciais e limitações. Propõe uma avaliação adicional viável, com tarefas comparáveis, tempo total e qualidade. Não inventes retorno financeiro.
 
 ### Se quiseres ir mais longe
 
@@ -490,15 +508,15 @@ Um pedido pronto a usar com IA, contendo apenas o contexto operacional permitido
 
 ### O caso
 
+Leiam a nota localmente. Não a copiem para a IA; preparem primeiro o pedido limpo.
+
 SIMULAÇÃO — todos os dados são inventados e não representam pessoas reais.
 
 A equipa quer usar IA para propor uma distribuição semanal de tarefas administrativas. Para este exercício, a regra interna fictícia permite partilhar apenas funções, disponibilidade horária agregada e necessidades do trabalho; proíbe nomes, contactos, razões individuais de ausência, avaliações pessoais e credenciais. Esta é a regra dada no cenário, não uma interpretação jurídica.
 
 Nota bruta: «A pessoa fictícia PF-01 trabalha 20 horas úteis nesta semana em secretariado; motivo privado de disponibilidade: assunto familiar. PF-02 trabalha 30 horas em logística e o colega diz que é “desorganizada”. PF-03 trabalha 10 horas em revisão; contacto fictício pf 03@example.org. A senha de treino é TREINO-NAO-USAR. Precisamos de 20 horas de secretariado,20 de logística e10 de revisão; cada função só pode ser assegurada por quem tem essa função. Podem ficar horas disponíveis sem tarefa. A coordenação quer identificar se há défice e que margem sobra, sem classificar pessoas.»
 
-Não copiem a nota bruta para uma ferramenta externa. O objetivo é construir primeiro um pedido seguro com o mínimo necessário e suficiente para resolver o problema operacional.
-
-### Três orientações
+### O que fazer
 
 1. Leiam a nota localmente e decidam que dados são necessários para comparar necessidades e capacidade por função.
 2. Escrevam um pedido limpo que respeite a regra fictícia e peça distribuição, défice e margem sem avaliação pessoal.
@@ -513,6 +531,8 @@ Não copiem a nota bruta para uma ferramenta externa. O objetivo é construir pr
 ### Ajuda opcional
 
 Substituir um nome por um código não elimina necessariamente informação desnecessária. Aqui podem descrever só capacidade por função, sem referir pessoas.
+
+Sugestão de pedido: A partir apenas da capacidade por função, necessidades e restrições permitidas, pede uma distribuição semanal que identifique défice e margem. Escreve o teu próprio pedido limpo com os números necessários. Não incluas pessoas, códigos, contactos, motivos de ausência, avaliações ou credenciais.
 
 ### Se quiseres ir mais longe
 
@@ -543,9 +563,9 @@ Sala A:09h00–12h00, capacidade 20, custo 180 euros. Sala B:mesmo horário, cap
 
 A demonstração exige técnico de apoio: mínimo contratável de 2 horas a60 euros/hora, mesmo que a demonstração dure 1 hora. Impressão:1 euro por pessoa; o formato digital é permitido, com custo adicional zero. Teto total:400 euros, todos os preços finais com impostos. Não existem outros custos neste exercício.
 
-A coordenação quer uma agenda que inclua sala, suporte dos materiais, total financeiro e uma decisão clara sobre o que é exequível. Não inventem desconto ou redução da duração das sessões.
+Não existem descontos confirmados nem autorização para reduzir a duração das sessões.
 
-### Três orientações
+### O que fazer
 
 1. Somem sessões e transições e comparem a capacidade das salas com as 24 pessoas.
 2. Peçam uma agenda à IA e avaliem os cenários com materiais impressos ou digitais, incluindo o mínimo contratual do técnico.
@@ -560,6 +580,8 @@ A coordenação quer uma agenda que inclua sala, suporte dos materiais, total fi
 ### Ajuda opcional
 
 O técnico é faturado pelo mínimo contratual, não apenas pela duração da demonstração. Confiram capacidade antes de comparar o preço das salas.
+
+Sugestão de pedido: Prepara uma agenda exequível, respeitando a ordem e duração das sessões, transições e lotação. Indica sala, suporte dos materiais e custo total, incluindo o mínimo contratável do técnico. Compara impressão e digital e justifica a opção sem inventar descontos.
 
 ### Se quiseres ir mais longe
 
