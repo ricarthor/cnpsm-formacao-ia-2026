@@ -229,14 +229,14 @@ NOTA DE RUI PARA SOFIA — 10 março 2027, sem aprovação
 CONTEXTO DISPONÍVEL E CONFIRMADO
 Encontro Nacional de Saúde Mental 2027: 21 maio 2027, 09h30–16h30, Casa do Horizonte, Vila Serena. Capacidade máxima: 80 pessoas. Teto financeiro: 4500 euros. Participação gratuita. Não houve nova aprovação de capacidade nem orçamento.
 
-Inês Vale aprova comunicações, programa e despesas. Tomás Seixo trata logística; Marta Cedro trata inscrições e comunicações; Rui Lamego trata conteúdos; Sofia Nobre trata secretariado. Uma tarefa não atribuída não passa automaticamente para Sofia.
+Inês Vale aprova comunicações, programa e despesas. Tomás Seixo trata logística; Marta Cedro trata inscrições e comunicações; Rui Lamego trata conteúdos; Sofia Nobre trata secretariado. Não existe atribuição confirmada a Sofia das tarefas que Rui deixa por resolver.
 
 Pendentes: formulário e prazo de inscrição, certificado, facilitadores, programa detalhado, reserva definitiva da sala e despesas por rubrica. O convite referido por Rui não está disponível e o seu estado de aprovação é desconhecido. Não existe ligação de inscrição pronta. A reunião de 12 março ainda não aconteceu nesta fase do cenário.
 
-Regras de trabalho: PT-PT; não inventar decisões, documentos ou prazos; distinguir proposta de confirmação; pedir aprovação à coordenação antes de divulgar.
+DOCUMENTOS E NORMAS DISPONÍVEIS
+Não foi disponibilizada uma pasta partilhada com um convite validado. O único documento referido é o ficheiro no computador de Rui, sem acesso neste exercício.
 
-ORIENTAÇÃO PARA A PASSAGEM
-Não existe neste exercício uma pasta partilhada com convite validado. Proponham um local único para o documento de referência, sem inventar uma ligação. Antes de editar em paralelo, a equipa deve confirmar com Rui qual é o rascunho mais recente, guardá-lo nesse local com versão e estado, e combinar quem integra as alterações. Inês continua a aprovar a divulgação. Cópias de trabalho devem estar identificadas como tal e remeter para essa referência; nenhum nome «final» prova aprovação.
+As normas da comissão preveem português de Portugal, distinção entre propostas e confirmações e aprovação pela coordenação antes da divulgação. Não existem decisões, documentos ou prazos confirmados para além dos indicados neste contexto.
 
 ### O que fazer
 
@@ -264,7 +264,7 @@ Mostrem a nota e a continuação. Expliquem um bloqueio que ficou explícito e o
 
 ### Ajuda opcional para começar
 
-Transforma o caso numa nota de passagem para o colega que vai continuar o evento. Inclui objetivo, factos confirmados, documentos disponíveis ou ausentes, pendências e três próximos passos com a pessoa a contactar. Usa apenas o contexto confirmado. Se uma afirmação de Rui o contrariar, assinala a divergência. Não inventes aprovação do convite, prazos ou tarefas atribuídas. Indica que não há convite de referência acessível e validado. Propõe um local único para o documento, uma pessoa para integrar alterações e aprovação por Inês; distingue estas propostas do que já está confirmado.
+Transforma o caso numa nota de passagem para o colega que vai continuar o evento. Inclui objetivo, factos confirmados, documentos disponíveis ou ausentes, pendências e três próximos passos com a pessoa a contactar. Usa apenas o contexto confirmado. Se uma afirmação de Rui o contrariar, assinala a divergência. Não inventes aprovação do convite, prazos ou tarefas atribuídas. Indica que não há convite de referência acessível e validado. Propõe um local único para o documento, uma pessoa para integrar alterações e aprovação por Inês; distingue estas propostas do que já está confirmado. Antes de propor edição em paralelo, identifica a necessidade de confirmar com Rui qual é o rascunho mais recente. As cópias de trabalho devem estar identificadas e remeter para a referência comum; o nome «final» não comprova aprovação. Não inventes uma ligação para a pasta proposta.
 
 ### Testar sem levar a conversa inteira
 
