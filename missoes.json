@@ -200,47 +200,50 @@
     },
     {
       "id": "M03",
-      "title": "Passar a organização do encontro a um colega",
+      "title": "Preparar a passagem de trabalho do Rui para a Sofia",
       "duration": 30,
       "time": "11h05–11h35",
       "mode": "outcomes",
-      "objective": "Preparar uma passagem de trabalho que permita continuar a tarefa numa conversa nova sem depender do histórico.",
-      "scenario": "Rui vai ausentar-se. A nota que deixa mistura certezas e suposições. Transformem-na numa passagem clara e experimentem continuar o trabalho a partir dela, numa conversa nova.",
+      "objective": "Reescrever a nota do Rui para que Sofia consiga continuar a organização durante a ausência dele, e testar se a nota revista funciona sem o histórico anterior.",
+      "scenario": "O Rui vai estar ausente dois dias e deixou uma nota confusa. Ajudem-no a preparar uma passagem de trabalho para a Sofia, usando os factos confirmados.",
       "case": "NOTA DE RUI PARA SOFIA — 10 março 2027, sem aprovação\n«Vou estar ausente dois dias. O evento está praticamente fechado. O convite é o convite_final_final.docx no meu computador; o outro que anda na pasta é antigo, acho eu. Podes avançar com ele. O Tomás disse que a sala estava tratada. Para mim cabem 100 se pusermos mais cadeiras. O orçamento é o que tínhamos falado; não tenho aqui o valor. Talvez tenhamos certificados, pergunta à Marta. Falta só mandar o link e confirmar com as pessoas. A reunião é dia 12, às 10h00. Ainda não enviei o convite porque o formulário não está pronto. Não sei quem vai acabar o programa. A Sofia pode tratar do resto.»\n\nCONTEXTO DISPONÍVEL E CONFIRMADO\nEncontro Nacional de Saúde Mental 2027: 21 maio 2027, 09h30–16h30, Casa do Horizonte, Vila Serena. Capacidade máxima: 80 pessoas. Teto financeiro: 4500 euros. Participação gratuita. Não houve nova aprovação de capacidade nem orçamento.\n\nInês Vale aprova comunicações, programa e despesas. Tomás Seixo trata logística; Marta Cedro trata inscrições e comunicações; Rui Lamego trata conteúdos; Sofia Nobre trata secretariado. Não existe atribuição confirmada a Sofia das tarefas que Rui deixa por resolver.\n\nPendentes: formulário e prazo de inscrição, certificado, facilitadores, programa detalhado, reserva definitiva da sala e despesas por rubrica. O convite referido por Rui não está disponível e o seu estado de aprovação é desconhecido. Não existe ligação de inscrição pronta. A reunião de 12 março ainda não aconteceu nesta fase do cenário.\n\nDOCUMENTOS E NORMAS DISPONÍVEIS\nNão foi disponibilizada uma pasta partilhada com um convite validado. O único documento referido é o ficheiro no computador de Rui, sem acesso neste exercício.\n\nAs normas da comissão preveem português de Portugal, distinção entre propostas e confirmações e aprovação pela coordenação antes da divulgação. Não existem decisões, documentos ou prazos confirmados para além dos indicados neste contexto.",
       "inputs": [],
       "deliverables": [
-        "Uma nota de passagem com objetivo, factos confirmados, pendências e três próximos passos. Identifica a versão de referência do convite — ou a sua ausência —, o estado de aprovação, quem a deve recuperar e onde a equipa propõe guardá-la.",
-        "Uma continuação feita numa conversa nova: resumo do que está em curso e primeira ação segura, sem consultar o chat anterior."
+        "Uma versão revista da nota do Rui para a Sofia: objetivo do trabalho, factos confirmados, pendências e três próximos passos. Identifica a versão de referência do convite — ou a sua ausência —, o estado de aprovação, quem a deve recuperar e onde a equipa propõe guardá-la.",
+        "Um teste da nota revista numa conversa nova: o Claude assume o papel da Sofia e explica o que está em curso e qual é a primeira ação segura, usando apenas essa nota."
       ],
       "steps": [
         {
           "minutes": 7,
-          "instruction": "Leiam a nota e o contexto. Conversem sobre as afirmações que não podem ser aceites sem confirmação e sobre o que o próximo colega precisa de saber.",
-          "result": "A dupla identifica os riscos de continuar apenas com a nota de Rui."
+          "instruction": "Leiam a nota do Rui e o contexto confirmado. Identifiquem as afirmações que precisam de confirmação e a informação de que Sofia necessita para continuar a organização durante os dois dias de ausência do Rui.",
+          "result": "Informação a corrigir ou esclarecer na nota do Rui identificada.",
+          "label": "Perceber o que a Sofia precisa de saber"
         },
         {
           "minutes": 16,
-          "instruction": "Peçam ao Claude uma nota de passagem e revejam-na juntos. Deixem explícito que ainda não há um convite de referência acessível e validado. Proponham um único local partilhado para a versão recuperada, quem confirma a versão e quem aprova o envio. Depois abram uma conversa nova, colem apenas a nota revista e peçam o resumo e a primeira ação segura. Corrijam a passagem se faltar contexto.",
-          "result": "Uma passagem utilizável e uma continuação que funciona sem o histórico."
+          "instruction": "Peçam ao Claude que reescreva a nota do Rui para a Sofia e revejam o resultado com o contexto confirmado. A nota deve esclarecer o que está decidido, o que falta confirmar e os próximos passos, incluindo como recuperar e organizar a referência do convite. Abram uma conversa nova, colem apenas a nota revista e peçam ao Claude que assuma o papel da Sofia: o que está em curso e qual é a primeira ação segura? Se precisar de informação que ficou no chat anterior, acrescentem-na à nota.",
+          "result": "Nota do Rui para a Sofia revista e testada sem o histórico anterior.",
+          "label": "Reescrever a nota e testar como Sofia"
         },
         {
           "minutes": 7,
-          "instruction": "Mostrem a nota e a continuação. Expliquem um bloqueio que ficou explícito e o pedido de confirmação necessário para o resolver.",
-          "result": "Continuidade demonstrada e uma decisão de revisão explicada."
+          "instruction": "Mostrem a nota revista do Rui para a Sofia e a resposta do teste na conversa nova. Expliquem uma ambiguidade da nota original que resolveram e uma confirmação que a Sofia ainda precisa de obter.",
+          "result": "Passagem Rui–Sofia demonstrada e uma melhoria concreta explicada.",
+          "label": "Apresentar a nota revista e o teste"
         }
       ],
       "criteria": [
         "A nota preserva capacidade e teto confirmados, distinguindo-os das suposições de Rui.",
         "A falta de uma versão de referência acessível fica explícita. A nota propõe um único local partilhado, identifica Rui para recuperar a versão e Inês para aprovar; localização proposta não é apresentada como ficheiro existente ou aprovação obtida.",
         "Os três próximos passos identificam a ação e a pessoa a contactar; prazos propostos não aparecem como aprovados.",
-        "A nova conversa consegue resumir objetivo e próxima ação a partir da nota revista, sem depender do chat anterior."
+        "Na conversa nova, o Claude no papel da Sofia consegue resumir o trabalho e indicar uma próxima ação segura usando apenas a nota revista."
       ],
-      "starter": "Transforma o caso numa nota de passagem para o colega que vai continuar o evento. Inclui objetivo, factos confirmados, documentos disponíveis ou ausentes, pendências e três próximos passos com a pessoa a contactar. Usa apenas o contexto confirmado. Se uma afirmação de Rui o contrariar, assinala a divergência. Não inventes aprovação do convite, prazos ou tarefas atribuídas. Indica que não há convite de referência acessível e validado. Propõe um local único para o documento, uma pessoa para integrar alterações e aprovação por Inês; distingue estas propostas do que já está confirmado. Antes de propor edição em paralelo, identifica a necessidade de confirmar com Rui qual é o rascunho mais recente. As cópias de trabalho devem estar identificadas e remeter para a referência comum; o nome «final» não comprova aprovação. Não inventes uma ligação para a pasta proposta.",
+      "starter": "Ajuda o Rui a reescrever a nota que deixou para a Sofia, que vai continuar a organização do encontro durante os dois dias de ausência dele. Escreve a nota revista dirigida à Sofia. Inclui objetivo, factos confirmados, documentos disponíveis ou ausentes, pendências e três próximos passos com a pessoa a contactar. Usa apenas o contexto confirmado. Se uma afirmação de Rui o contrariar, assinala a divergência. Não inventes aprovação do convite, prazos ou tarefas atribuídas. Indica que não há convite de referência acessível e validado. Propõe um local único para o documento, uma pessoa para integrar alterações e aprovação por Inês; distingue estas propostas do que já está confirmado. Antes de propor edição em paralelo, identifica a necessidade de confirmar com Rui qual é o rascunho mais recente. As cópias de trabalho devem estar identificadas e remeter para a referência comum; o nome «final» não comprova aprovação. Não inventes uma ligação para a pasta proposta.",
       "helps": [
         {
           "title": "Testar sem levar a conversa inteira",
-          "text": "Copiem só a nota revista para um chat novo. A ideia é verificar se a nota contém contexto suficiente, sem explicações adicionais.",
-          "prompt": "Recebeste esta nota de passagem e não tens acesso ao chat anterior. Resume a tarefa em três frases e indica a primeira ação que podes realizar com segurança. Diz o que ainda precisas de confirmar antes de divulgar o convite."
+          "text": "Copiem só a versão revista da nota do Rui para uma conversa nova. Peçam ao Claude que assuma o papel da Sofia para verificar se consegue continuar sem explicações adicionais.",
+          "prompt": "Assume o papel da Sofia. Recebeste esta nota revista do Rui e não tens acesso ao chat anterior. Resume em três frases o trabalho que vais continuar e indica a primeira ação que podes realizar com segurança. Diz o que ainda precisas de confirmar antes de divulgar o convite."
         },
         {
           "title": "Se o teste falhar",
@@ -254,16 +257,17 @@
       "pairwork": "Trabalhem juntos na mesma conversa. Discutam as escolhas, experimentem melhorias e revejam o resultado em conjunto. Apresentem o trabalho na conversa ou num documento à vossa escolha; não precisam de registar prompts nem preencher uma folha.",
       "one_computer": "Um computador por dupla é suficiente. Quem está ao teclado escreve o que a dupla decide; ambos leem o caso, discutem as opções e conferem a resposta.",
       "fallback": "Uma conta pessoal e uma conversa normal bastam. Copiem o caso completo desta página, conversem com o Claude e guardem o resultado pelo meio que preferirem. Não precisam de partilhar credenciais nem publicar chats.",
-      "offline": "Escrevam a nota em papel ou Word. Depois leiam-na como se fossem o colega que chega e produzam o resumo e a primeira ação usando apenas essa nota. Revejam qualquer informação que tenha exigido uma explicação adicional.",
-      "debrief": "Que informação teve de sair do histórico e entrar na nota para outro colega conseguir continuar?",
+      "offline": "Reescrevam a nota do Rui para a Sofia em papel ou Word. Depois, leiam a versão revista como se fossem a Sofia: resumam o trabalho e identifiquem a primeira ação usando apenas essa nota. Acrescentem qualquer informação que tenha exigido explicações adicionais.",
+      "debrief": "A Sofia consegue continuar usando apenas a nota revista do Rui? O que tiveram de esclarecer para isso ser possível?",
       "story_phase": "Pré-evento · Garantir a continuidade",
-      "story_context": "Rui vai ausentar-se durante dois dias. A nota que deixa mistura certezas com suposições e remete para um convite no seu computador. Sofia precisa de conseguir continuar sem adivinhar o que ficou decidido.",
+      "story_context": "O Rui vai estar ausente dois dias e deixou uma nota confusa. Vocês estão a ajudá-lo a preparar uma passagem de trabalho para a Sofia. Reescrevam a nota, usando o contexto confirmado, para que ela perceba o que está decidido, o que falta confirmar e qual é o próximo passo.",
       "importance": "A continuidade depende de uma referência acessível, do estado das decisões e de uma próxima ação clara — não apenas do histórico de uma conversa.",
       "learning_outcomes": [
-        "Preparar uma passagem de trabalho com factos, pendências, referência documental e próximos passos.",
+        "Reescrever uma nota de passagem para um colega, distinguindo factos, pendências, documentos de referência e próximos passos.",
         "Testar a continuação numa conversa nova e identificar informação em falta ou versões sem validação."
       ],
-      "case_label": "Nota do Rui e contexto disponível"
+      "case_label": "Nota do Rui e contexto disponível",
+      "task_request": "Preparem uma versão revista da nota do Rui, dirigida à Sofia. Depois, testem numa conversa nova se ela contém informação suficiente para a Sofia continuar sem consultar o histórico anterior."
     },
     {
       "id": "M04",
