@@ -201,25 +201,25 @@ Primeiro, revejam e validem a correção. Se for uma regra geral, uma pessoa com
 
 Leiam o email e preparem o convite em papel ou Word com a base da M01 ou com a alternativa incluída. Confiram os factos e a apresentação visual. Uma primeira versão pode ser revista por outra dupla.
 
-## M03 — Passar a organização do encontro a um colega
+## M03 — Preparar a passagem de trabalho do Rui para a Sofia
 
 Pré-evento · Garantir a continuidade · 11h05–11h35 · 30 minutos
 
-Rui vai ausentar-se durante dois dias. A nota que deixa mistura certezas com suposições e remete para um convite no seu computador. Sofia precisa de conseguir continuar sem adivinhar o que ficou decidido.
+O Rui vai estar ausente dois dias e deixou uma nota confusa. Vocês estão a ajudá-lo a preparar uma passagem de trabalho para a Sofia. Reescrevam a nota, usando o contexto confirmado, para que ela perceba o que está decidido, o que falta confirmar e qual é o próximo passo.
 
 **Porque é importante:** A continuidade depende de uma referência acessível, do estado das decisões e de uma próxima ação clara — não apenas do histórico de uma conversa.
 
 ### O que vão aprender
 
-- Preparar uma passagem de trabalho com factos, pendências, referência documental e próximos passos.
+- Reescrever uma nota de passagem para um colega, distinguindo factos, pendências, documentos de referência e próximos passos.
 
 - Testar a continuação numa conversa nova e identificar informação em falta ou versões sem validação.
 
 ### O que apresentar
 
-- Uma nota de passagem com objetivo, factos confirmados, pendências e três próximos passos. Identifica a versão de referência do convite — ou a sua ausência —, o estado de aprovação, quem a deve recuperar e onde a equipa propõe guardá-la.
+- Uma versão revista da nota do Rui para a Sofia: objetivo do trabalho, factos confirmados, pendências e três próximos passos. Identifica a versão de referência do convite — ou a sua ausência —, o estado de aprovação, quem a deve recuperar e onde a equipa propõe guardá-la.
 
-- Uma continuação feita numa conversa nova: resumo do que está em curso e primeira ação segura, sem consultar o chat anterior.
+- Um teste da nota revista numa conversa nova: o Claude assume o papel da Sofia e explica o que está em curso e qual é a primeira ação segura, usando apenas essa nota.
 
 ### O caso
 
@@ -240,17 +240,17 @@ As normas da comissão preveem português de Portugal, distinção entre propost
 
 ### O que fazer
 
-**Ler e decidir — 7 min**
+**Perceber o que a Sofia precisa de saber — 7 min**
 
-Leiam a nota e o contexto. Conversem sobre as afirmações que não podem ser aceites sem confirmação e sobre o que o próximo colega precisa de saber.
+Leiam a nota do Rui e o contexto confirmado. Identifiquem as afirmações que precisam de confirmação e a informação de que Sofia necessita para continuar a organização durante os dois dias de ausência do Rui.
 
-**Produzir e melhorar — 16 min**
+**Reescrever a nota e testar como Sofia — 16 min**
 
-Peçam ao Claude uma nota de passagem e revejam-na juntos. Deixem explícito que ainda não há um convite de referência acessível e validado. Proponham um único local partilhado para a versão recuperada, quem confirma a versão e quem aprova o envio. Depois abram uma conversa nova, colem apenas a nota revista e peçam o resumo e a primeira ação segura. Corrijam a passagem se faltar contexto.
+Peçam ao Claude que reescreva a nota do Rui para a Sofia e revejam o resultado com o contexto confirmado. A nota deve esclarecer o que está decidido, o que falta confirmar e os próximos passos, incluindo como recuperar e organizar a referência do convite. Abram uma conversa nova, colem apenas a nota revista e peçam ao Claude que assuma o papel da Sofia: o que está em curso e qual é a primeira ação segura? Se precisar de informação que ficou no chat anterior, acrescentem-na à nota.
 
-**Rever e apresentar — 7 min**
+**Apresentar a nota revista e o teste — 7 min**
 
-Mostrem a nota e a continuação. Expliquem um bloqueio que ficou explícito e o pedido de confirmação necessário para o resolver.
+Mostrem a nota revista do Rui para a Sofia e a resposta do teste na conversa nova. Expliquem uma ambiguidade da nota original que resolveram e uma confirmação que a Sofia ainda precisa de obter.
 
 ### Antes de apresentar
 
@@ -260,17 +260,17 @@ Mostrem a nota e a continuação. Expliquem um bloqueio que ficou explícito e o
 
 - Os três próximos passos identificam a ação e a pessoa a contactar; prazos propostos não aparecem como aprovados.
 
-- A nova conversa consegue resumir objetivo e próxima ação a partir da nota revista, sem depender do chat anterior.
+- Na conversa nova, o Claude no papel da Sofia consegue resumir o trabalho e indicar uma próxima ação segura usando apenas a nota revista.
 
 ### Ajuda opcional para começar
 
-Transforma o caso numa nota de passagem para o colega que vai continuar o evento. Inclui objetivo, factos confirmados, documentos disponíveis ou ausentes, pendências e três próximos passos com a pessoa a contactar. Usa apenas o contexto confirmado. Se uma afirmação de Rui o contrariar, assinala a divergência. Não inventes aprovação do convite, prazos ou tarefas atribuídas. Indica que não há convite de referência acessível e validado. Propõe um local único para o documento, uma pessoa para integrar alterações e aprovação por Inês; distingue estas propostas do que já está confirmado. Antes de propor edição em paralelo, identifica a necessidade de confirmar com Rui qual é o rascunho mais recente. As cópias de trabalho devem estar identificadas e remeter para a referência comum; o nome «final» não comprova aprovação. Não inventes uma ligação para a pasta proposta.
+Ajuda o Rui a reescrever a nota que deixou para a Sofia, que vai continuar a organização do encontro durante os dois dias de ausência dele. Escreve a nota revista dirigida à Sofia. Inclui objetivo, factos confirmados, documentos disponíveis ou ausentes, pendências e três próximos passos com a pessoa a contactar. Usa apenas o contexto confirmado. Se uma afirmação de Rui o contrariar, assinala a divergência. Não inventes aprovação do convite, prazos ou tarefas atribuídas. Indica que não há convite de referência acessível e validado. Propõe um local único para o documento, uma pessoa para integrar alterações e aprovação por Inês; distingue estas propostas do que já está confirmado. Antes de propor edição em paralelo, identifica a necessidade de confirmar com Rui qual é o rascunho mais recente. As cópias de trabalho devem estar identificadas e remeter para a referência comum; o nome «final» não comprova aprovação. Não inventes uma ligação para a pasta proposta.
 
 ### Testar sem levar a conversa inteira
 
-Copiem só a nota revista para um chat novo. A ideia é verificar se a nota contém contexto suficiente, sem explicações adicionais.
+Copiem só a versão revista da nota do Rui para uma conversa nova. Peçam ao Claude que assuma o papel da Sofia para verificar se consegue continuar sem explicações adicionais.
 
-Recebeste esta nota de passagem e não tens acesso ao chat anterior. Resume a tarefa em três frases e indica a primeira ação que podes realizar com segurança. Diz o que ainda precisas de confirmar antes de divulgar o convite.
+Assume o papel da Sofia. Recebeste esta nota revista do Rui e não tens acesso ao chat anterior. Resume em três frases o trabalho que vais continuar e indica a primeira ação que podes realizar com segurança. Diz o que ainda precisas de confirmar antes de divulgar o convite.
 
 ### Se o teste falhar
 
@@ -282,7 +282,7 @@ Escolham uma localização comum para a referência, uma pessoa para integrar al
 
 ### Sem acesso ao Claude
 
-Escrevam a nota em papel ou Word. Depois leiam-na como se fossem o colega que chega e produzam o resumo e a primeira ação usando apenas essa nota. Revejam qualquer informação que tenha exigido uma explicação adicional.
+Reescrevam a nota do Rui para a Sofia em papel ou Word. Depois, leiam a versão revista como se fossem a Sofia: resumam o trabalho e identifiquem a primeira ação usando apenas essa nota. Acrescentem qualquer informação que tenha exigido explicações adicionais.
 
 ## M04 — Registar as decisões da reunião de preparação
 
